@@ -1,0 +1,8 @@
+{
+  "name": "The English Mastery อรพรรณ",
+  "description": "A comprehensive web app for English learners, featuring AI-powered conversation practice, a vocabulary finder, Q&A, and an image-based vocabulary tool to make learning interactive and effective.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
